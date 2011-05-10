@@ -14,7 +14,8 @@ $pages = array(
     'thankyou',
     'faq',
     'card',
-    'certificate'
+    'certificate',
+    'hangtags',
 );
 
 header('Content-type: text/html; charset=utf-8');
